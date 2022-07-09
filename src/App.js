@@ -6,7 +6,9 @@ import {Table, TableContainer, TableHead, TableCell, TableBody, TableRow, Modal,
 import {Edit, Delete} from '@material-ui/icons';
 import {FaReact} from 'react-icons/fa';
 
-const baseUrl="http://localhost:3000/consolas/"
+// const baseUrl="http://localhost:3000/consolas/"
+const baseUrl="https://my-json-server.typicode.com/Agustintrezza/crudmundialesreact/consolas/"
+
 
 const useStyles = makeStyles((theme) => ({
   modal: {
