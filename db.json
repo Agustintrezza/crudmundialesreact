@@ -1,0 +1,65 @@
+{
+  "consolas": [
+    {
+      "id": 1,
+      "seleccion": "Brasil",
+      "titulos": "5",
+      "años": "1958, 1962, 1970, 1994, 2002",
+      "ranking_fifa": "1"
+    },
+    {
+      "id": 2,
+      "seleccion": "Alemania",
+      "titulos": "4",
+      "años": "1954, 1974, 1990, 2014",
+      "ranking_fifa": "11",
+      "nombre": "Alemania",
+      "lanzamiento": "4",
+      "empresa": "1954, 1974, 1990, 2014",
+      "unidades_vendidas": "11",
+      "tituloso": "2"
+    },
+    {
+      "id": 3,
+      "seleccion": "Italia",
+      "titulos": "4",
+      "años": "1934, 1938, 1982, 2006",
+      "ranking_fifa": "7"
+    },
+    {
+      "id": 4,
+      "seleccion": "Uruguay",
+      "titulos": "2",
+      "años": "1930, 1950",
+      "ranking_fifa": "13"
+    },
+    {
+      "id": 5,
+      "seleccion": "Argentina",
+      "titulos": "2",
+      "años": "1978, 1986",
+      "ranking_fifa": "3"
+    },
+    {
+      "id": 6,
+      "seleccion": "Francia",
+      "titulos": "1",
+      "años": "1998, 2018",
+      "ranking_fifa": "4"
+    },
+    {
+      "id": 7,
+      "seleccion": "España",
+      "titulos": "1",
+      "años": "2010",
+      "ranking_fifa": "6"
+    },
+    {
+      "id": 8,
+      "seleccion": "Inglaterra",
+      "titulos": "1",
+      "años": "1966",
+      "ranking_fifa": "5"
+    }
+  ]
+}

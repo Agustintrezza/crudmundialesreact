@@ -1,0 +1,73 @@
+/* .App {
+  text-align: center;
+} */
+.contenedor-general-header {
+  background-color: #023047;
+}
+.contenedor-header {
+  padding: 1px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.titulo-logo {
+  color: white;
+  font-size: 30px;
+}
+.logo-react {
+  font-size: 40px;
+  color: #8ecae6;
+  margin-left: 30px;
+}
+@media (max-width:768px) {
+  .logo-react {
+    margin-left: 15px;
+  }
+  .contenedor-header {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;
+  }
+}
+/* .container-tabla {
+  width:90%;
+  margin: 0 auto;
+} */
+hr {
+  width: 100%;
+}
+.contenedor-botones {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.MuiInputLabel-formControl {
+  top: 0;
+  left: 0;
+  position: absolute;
+  transform: translate(0, 24px) scale(1);
+  font-family: 'Quicksand'!important;
+}
+.MuiInputLabel-root.Mui-focused {
+  color: #219ebc!important;
+}
+.MuiInput-underline:after {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  position: absolute;
+  transform: scaleX(0);
+  transition: transform 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+  border-bottom: 2px solid #219ebc!important;
+  pointer-events: none;
+}
+.MuiInputBase-input {
+  font-family: 'Quicksand'!important;
+}
